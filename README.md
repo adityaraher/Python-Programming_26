@@ -1,10 +1,12 @@
 # Python-Programming_26
 
-Aditya Nandkishor Aher
+Name:Aditya Nandkishor Aher
 
-1272261047
+PRN no.:1272261047
 
-Fy 2026 Division 2
+Division/Batch:Division 2 and Batch 1
 
-Python Programming 
+Academic Year: Fy 2026
+
+This repository is for python programming in Mitwpu.
 
