@@ -1,0 +1,4 @@
+cust_id,cust_fname,cust_lname,cust_address,cust_contact,cust_email,credit_limit,cust_joindate,acc_status,join_date
+CUST-00001,Aarav,Shinde,"Viman Nagar, Pune, Maharashtra, India",9850112233,aarav.shinde@example.com,75000,10-08-2026,active,10-08-2026
+CUST-00002,Meera,Patil,"Baner, Pune, Maharashtra, India",9860445566,meera.patil@example.com,50000,18-09-2026,active,18-09-2026
+CUST-00003,Vikram,Nair,"Indiranagar, Bengaluru, Karnataka, India",9845123456,vikram.nair@example.com,100000,05-10-2026,active,05-10-2026
