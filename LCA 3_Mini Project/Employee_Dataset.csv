@@ -1,0 +1,3 @@
+emp_id,emp_fname,emp_lname,emp_address,office_location,department,access_tier,office_email,office_contact
+EMP-00001,Ananya,Joshi,"Kothrud, Pune, Maharashtra, India","Pune, Maharashtra, India",Verification & Ops,L2,ananya.joshi@globaltrans.in,9823044551
+EMP-00002,Siddharth,Kulkarni,"Andheri West, Mumbai, Maharashtra, India","Mumbai, Maharashtra, India",Disputes & Support,L1,siddharth.k@globaltrans.in,9820199887
