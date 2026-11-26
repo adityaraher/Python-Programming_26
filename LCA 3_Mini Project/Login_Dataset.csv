@@ -1,0 +1,10 @@
+user_id,username,password,user_role,acc_status
+IND-00001,parthppawar08@gmail.com,parth123,admin,active
+ADM-00002,rohan.deshmukh@globaltrans.in,admin123,admin,active
+EMP-00001,ananya.joshi@globaltrans.in,emp123,employee,active
+EMP-00002,siddharth.k@globaltrans.in,emp123,employee,active
+CUST-00001,aarav.shinde@example.com,cust123,customer,active
+CUST-00002,meera.patil@example.com,cust123,customer,active
+CUST-00003,vikram.nair@example.com,cust123,customer,active
+CONTR-00001,rajesh.fleet@example.com,contr123,contractor,active
+CONTR-00002,suresh.trans@example.com,contr123,contractor,active
